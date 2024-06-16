@@ -12,7 +12,7 @@ Client/Backendの両方でJavascriptを利用してProtobuf(Protocol Buffers)を
 ## 使い方
 □ webアプリを始動
 ```
-    npm start
+npm start
 ```
 
 □ http://localhost:3000 にアクセスをすると、 http://localhost:3001/person に対してAPIリクエストを投げます。
