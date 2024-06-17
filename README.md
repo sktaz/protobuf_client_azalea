@@ -6,7 +6,8 @@ Client/Backendの両方でJavascriptを利用してProtobuf(Protocol Buffers)を
 
 □ Client側: React.jsで作成した簡易的なWebアプリ。
 
-□ Backend側: node.js(express利用)で作成した簡易的なAPIサーバー。
+□ Backend側: node.js(express利用)で作成した簡易的なAPIサーバー。  
+Backendのコード: https://github.com/sktaz/protobuf_backend_azalea
 
 
 ## 使い方
