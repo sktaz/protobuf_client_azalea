@@ -12,6 +12,10 @@ Client/Backendの両方でJavascriptを利用してProtobuf(Protocol Buffers)を
 ## 使い方
 □ webアプリを始動
 ```
+yarn install
+```
+
+```
 npm start
 ```
 
